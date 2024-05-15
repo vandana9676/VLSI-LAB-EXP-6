@@ -47,7 +47,7 @@ STEP:18 Schematic windere will be opened
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/9f14d8ac-f386-44ab-b71a-7eb091664c5a)
 ## NAND:
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/89f4a2e2-b169-48d6-b2e0-f4a5139f2099)
-## vOUTPUT:
+## OUTPUT:
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/f2437a11-46c9-488c-9dea-24f13ab89c5e)
 ## Nor
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/216540cf-1a15-44f8-9c13-bd2631a0d1c2)
