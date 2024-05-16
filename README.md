@@ -34,6 +34,7 @@ a. In test cell view window i. Launch – ADE L(Analog Design Environment) b. Ex
 ## INVERTER SCHEMATIC:
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/a4113e90-8977-48a3-a747-5d22253d3f1c)
 ![image](https://github.com/vandana9676/VLSI-LAB-EXP-6/assets/165563035/42ebc1e7-ffa5-42d5-b8bc-35ec46b34e90)
+
 Specifications: Vpulse
 
 V1 = 0	       
